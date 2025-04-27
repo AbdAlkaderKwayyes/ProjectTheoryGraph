@@ -1,1 +1,1 @@
-هذا مشروع Windows Form Application هو عبارة عن محاكاة لخوارزميات مادة نظرية البيان في الهندسة المعلوماتية وتطبيقاتها.
+This project is a simulation of the graph theory course in computer engineering, built using Windows Forms Application technology.
